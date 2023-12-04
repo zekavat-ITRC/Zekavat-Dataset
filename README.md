@@ -6,5 +6,5 @@ This page conducted for publishing Zekavat dataset
 
 ایمیل : Zekavat@itrc.ac.ir
 
-1-	مدل شناسایی اخبار جعلی در حوزه کرونا (Covid19_Fakenews)
+1-	مدل تشخیص اخبار جعلی در حوزه کرونا (Covid19_Fakenews) روی متون خبری فارسی - حدود 8000 خبر برچسب گذاری شده
 
