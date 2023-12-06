@@ -22,6 +22,7 @@ This page conducted for publishing Zekavat dataset
 
 http://ensani.ir/file/download/article/1668312050-10114-42-2.pdf
 
+5- مشابهت سنجی معنایی متون کوتاه فارسی در شبکه های اجتماعی- مجموعه داده FarSSim و با کمک مدل زبانی FasSSibert- حدود 1123 جفت توئیت با امتیاز شباهت معنایی
 ٍ
 
 
